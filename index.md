@@ -56,12 +56,21 @@ Such a robot must not only use rapid inference from Bayesian models to predict t
 
 ## References
 [1] Convolutional neural networks (lenet), 2008.
+
 [2] Chris L Baker and Joshua B Tenenbaum. Modeling human plan recognition using bayesian theory of mind. 2013.
+
 [3] Chris L. Baker, Joshua B. Tenenbaum, and Rebecca Saxe. Bayesian models of human action under- standing. In NIPS, 2005.
+
 [4] Anca D. Dragan, Shira Bauman, Jodi Forlizzi, and Siddhartha S. Srinivasa. Effects of robot motion on human-robot collaboration. In HRI, 2015.
+
 [5] Anca D. Dragan and Siddhartha S. Srinivasa. Integrating human observer inferences into robot motion planning. Auton. Robots, 37:351–368, 2014.
+
 [6] Jesse Gray, Cynthia Breazeal, Matt Berlin, Andrew G. Brooks, and Jeff Lieberman. Action parsing and goal inference using self as simulator. In RO-MAN, 2005.
+
 [7] Steven Holtzen, Yibiao Zhao, Tao Gao, Joshua B Tenenbaum, and Song-Chun Zhu. Inferring human intent from video by sampling hierarchical plans. 2016.
+
 [8] Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel Gershman. Building machines that learn and think like people. CoRR, abs/1604.00289, 2016.
+
 [9] Shimon Ullman, Daniel Harari, and Nimrod Dorfman. From simple innate biases to complex visual concepts. Proceedings of the National Academy of Sciences of the United States of America, 109 44:18215–20, 2012.
+
 [10] Amanda Woodward. ” how infants make sense of intentional action ”. 2001.
