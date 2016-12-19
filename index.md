@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## Abstract
 
-You can use the [editor on GitHub](https://github.com/sanjaypojo/bb8/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> Humans can rapidly perceive their environment to make judgements about the goals and actions of others around them. In fact, developmental studies show that infants as young as six months are able to infer goals or desires based on people’s “reaching” motion [10]. However, building computational models for these sophisticated cognitive abilities continues to be a challenge. As robots move from the assembly line to becoming collaborators with people in a range of domains, it is necessary to consider models for robot behavior that are intuitive from the perspective of a human observer or collaborator [5]. In this review, we aim to explore research in brain and cognitive science, human-robot interaction, and artificial intelligence in order to understand how human beings predict the motion goals of others, with a specific focus on we can apply these learnings to better models for action parsing and goal inference in robot behavior for human-robot collaboration.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sanjaypojo/bb8/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
