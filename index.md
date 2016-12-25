@@ -1,4 +1,4 @@
-> Humans can rapidly perceive their environment to make judgements about the goals and actions of others around them. In fact, developmental studies show that infants as young as six months are able to infer goals or desires based on people’s “reaching” motion [10]. However, building computational models for these sophisticated cognitive abilities continues to be a challenge. As robots move from the assembly line to becoming collaborators with people in a range of domains, it is necessary to consider models for robot behavior that are intuitive from the perspective of a human observer or collaborator [5]. In this review, we aim to explore research in brain and cognitive science, human-robot interaction, and artificial intelligence in order to understand how human beings predict the motion goals of others, with a specific focus on we can apply these learnings to better models for action parsing and goal inference in robot behavior for human-robot collaboration.
+> Humans can rapidly perceive their environment to make judgements about the goals and actions of others around them. In fact, developmental studies show that infants as young as six months are able to infer goals or desires based on people’s “reaching” motion [[10]](#ref1). However, building computational models for these sophisticated cognitive abilities continues to be a challenge. As robots move from the assembly line to becoming collaborators with people in a range of domains, it is necessary to consider models for robot behavior that are intuitive from the perspective of a human observer or collaborator [5]. In this review, we aim to explore research in brain and cognitive science, human-robot interaction, and artificial intelligence in order to understand how human beings predict the motion goals of others, with a specific focus on we can apply these learnings to better models for action parsing and goal inference in robot behavior for human-robot collaboration.
 
 ## Introduction
 The advent of innovations in artificial intelligence, brain and cognitive sciences, and hardware have fueled a paradigm shift in the role of robotics within society. As robots move from working for people in factory assembly lines to working *with* people—in homes, education, disaster relief, healthcare, manufacturing and more—there is a pressing need to design how humans and robots will interact in these new domains. Much of past research has focused on models for robots operating in isolation. However, as humans and robots become collaborators in a shared space, it is important to consider the development of models that encapsulate the expectations of the human agent. In this review, we explore emerging research in a range of domains **to offer a perspective on building models for action parsing and goal inference in human-robot collaboration.**
@@ -55,22 +55,34 @@ As robots enter the everyday lives of people, there is a greater need to underst
 Such a robot must not only use rapid inference from Bayesian models to predict the intent of human agents in its surroundings, but also emulate human behaviour in its own motion. The robot must also be capable of making, and iterating on complex decisions in real-time based on the actions of human agents in the environment. We emphasize that this kind of ideal dynamic interplay between analysing and understanding the environment while simultaneously planning motion presents a complex and challenging problem. Through exploring the problem of action parsing and goal inference from a range of perspectives, we aim to synthesize a perspective on how these views converge and differ. We believe that research at the intersection of these fields will bring us closer to a future where we collaborate productively and intuitively with robots.
 
 ## References
-[1] Convolutional neural networks (lenet), 2008.
 
-[2] Chris L Baker and Joshua B Tenenbaum. Modeling human plan recognition using bayesian theory of mind. 2013.
-
-[3] Chris L. Baker, Joshua B. Tenenbaum, and Rebecca Saxe. Bayesian models of human action under- standing. In NIPS, 2005.
-
-[4] Anca D. Dragan, Shira Bauman, Jodi Forlizzi, and Siddhartha S. Srinivasa. Effects of robot motion on human-robot collaboration. In HRI, 2015.
-
-[5] Anca D. Dragan and Siddhartha S. Srinivasa. Integrating human observer inferences into robot motion planning. Auton. Robots, 37:351–368, 2014.
-
-[6] Jesse Gray, Cynthia Breazeal, Matt Berlin, Andrew G. Brooks, and Jeff Lieberman. Action parsing and goal inference using self as simulator. In RO-MAN, 2005.
-
-[7] Steven Holtzen, Yibiao Zhao, Tao Gao, Joshua B Tenenbaum, and Song-Chun Zhu. Inferring human intent from video by sampling hierarchical plans. 2016.
-
-[8] Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel Gershman. Building machines that learn and think like people. CoRR, abs/1604.00289, 2016.
-
-[9] Shimon Ullman, Daniel Harari, and Nimrod Dorfman. From simple innate biases to complex visual concepts. Proceedings of the National Academy of Sciences of the United States of America, 109 44:18215–20, 2012.
-
-[10] Amanda Woodward. ” how infants make sense of intentional action ”. 2001.
+<p id="ref1">
+    [1] Convolutional neural networks (lenet), 2008.
+</p>
+<p id="ref2">
+    [2] Chris L Baker and Joshua B Tenenbaum. Modeling human plan recognition using bayesian theory of mind. 2013.
+</p>
+<p id="ref3">
+    [3] Chris L. Baker, Joshua B. Tenenbaum, and Rebecca Saxe. Bayesian models of human action under- standing. In NIPS, 2005.
+</p>
+<p id="ref4">
+    [4] Anca D. Dragan, Shira Bauman, Jodi Forlizzi, and Siddhartha S. Srinivasa. Effects of robot motion on human-robot collaboration. In HRI, 2015.
+</p>
+<p id="ref5">
+    [5] Anca D. Dragan and Siddhartha S. Srinivasa. Integrating human observer inferences into robot motion planning. Auton. Robots, 37:351–368, 2014.
+</p>
+<p id="ref6">
+    [6] Jesse Gray, Cynthia Breazeal, Matt Berlin, Andrew G. Brooks, and Jeff Lieberman. Action parsing and goal inference using self as simulator. In RO-MAN, 2005.
+</p>
+<p id="ref7">
+    [7] Steven Holtzen, Yibiao Zhao, Tao Gao, Joshua B Tenenbaum, and Song-Chun Zhu. Inferring human intent from video by sampling hierarchical plans. 2016.
+</p>
+<p id="ref8">
+    [8] Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, and Samuel Gershman. Building machines that learn and think like people. CoRR, abs/1604.00289, 2016.
+</p>
+<p id="ref9">
+    [9] Shimon Ullman, Daniel Harari, and Nimrod Dorfman. From simple innate biases to complex visual concepts. Proceedings of the National Academy of Sciences of the United States of America, 109 44:18215–20, 2012.
+</p>
+<p id="ref10">
+    [10] Amanda Woodward. ” how infants make sense of intentional action ”. 2001.
+</p>
