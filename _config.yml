@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title: Social Robots
+tagline: Designing computational models for action parsing and goal inference in human-robot collaboration
+
+#Author
+name: Nikhita Singh & Sanjay Guruprasad
